@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 มาม่า
 ไก่ทอด
 ไก่ย้าง
 ไก่ต้ม
+=======
+Ore no imoto ga kawaii wa kenganai
+kimetsu no yaiba
+Toriko
+Anohana
+>>>>>>> movies
